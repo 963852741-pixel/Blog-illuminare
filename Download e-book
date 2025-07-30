@@ -1,0 +1,5 @@
+<form>
+  <input type="text" name="nome" placeholder="O seu nome" required />
+  <input type="email" name="email" placeholder="O seu e-mail" required />
+  <button type="submit">Quero o e-book gratuito</button>
+</form>
